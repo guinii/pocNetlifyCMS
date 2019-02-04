@@ -28,7 +28,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What we offer hehehe
   description: >
     BABABAA ASKDL ADroasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
