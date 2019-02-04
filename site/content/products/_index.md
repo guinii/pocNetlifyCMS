@@ -1,14 +1,12 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
-description: >-
-  ASDJAJSDJASDJA 
+heading: What we offer resting
+description: 'ASDJAJSDJASDJA '
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: >
+      text: |
         EMMEMAsdl alsdmasdasd
     - image: /img/illustrations-coffee-gear.svg
       text: >
@@ -52,8 +50,7 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      I dont like you be been drinking every morning.
+    quote: I dont like you be been drinking every morning.
   - author: Philipp Trommler
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
@@ -88,5 +85,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
